@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C4RMONA/Note-Taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/C4RMONA/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/C4RMONA/Note-Taker#readme"
 }
